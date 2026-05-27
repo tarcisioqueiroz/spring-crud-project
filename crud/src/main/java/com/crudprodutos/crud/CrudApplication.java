@@ -1,13 +1,13 @@
-package com.projeto_crud.crudprodutos;
+package com.crudprodutos.crud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrudprodutosApplication {
+public class CrudApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrudprodutosApplication.class, args);
+		SpringApplication.run(CrudApplication.class, args);
 	}
 
 }
